@@ -1,0 +1,70 @@
+participant_id	diagnosis_degree_b	diagnosis_degree_b_2	diagnosis_degree_l	diagnosis_degree_l_2	diagnosis_degree_os	diagnosis_degree_os_2	diagnosis_degree_p	diagnosis_degree_p_2	diagnosis_degree_r	diagnosis_degree_r_2	diagnosis_degree_s	diagnosis_degree_s_2	diagnosis_uvfp_ds	diagnosis_uvfp_treatment	diagnosis_uvfp_dse	diagnosis_uvfp_etiology	diagnosis_uvfp_gold_standard_diagnosis	diagnosis_uvfp_iatrogenic	diagnosis_uvfp_tumor	diagnosis_uvfp_treatment_select___other	diagnosis_uvfp_treatment_select___speech_therapy	diagnosis_uvfp_treatment_select___surgery	diagnosis_uvfp_treatment_surgery___arytenoid_adduction	diagnosis_uvfp_treatment_surgery___other	diagnosis_uvfp_treatment_surgery___thyroplasty	diagnosis_uvfp_treatment_surgery___vocal_fold_injection_augmentation	diagnosis_uvfp_treatment_surgery_thyroplasty___goretex	diagnosis_uvfp_treatment_surgery_thyroplasty___silastic	diagnosis_uvfp_treatment_surgery_vfia___caha	diagnosis_uvfp_treatment_surgery_vfia___fat_injection	diagnosis_uvfp_treatment_surgery_vfia___gel	diagnosis_uvfp_treatment_surgery_vfia___hyaluronic_acid_augmentation
+891982	18.0	Consistent	47.0	Consistent	81.0	Consistent	30.0	Consistent	83.0	Consistent	22.0	Consistent	Right	Yes	No glottic gap	Iatrogenic (surgery/intubation)	Yes	Thyroidectomy				1.0				1.0						1.0
+202346	47.0	Consistent	20.0	Consistent	57.0	Consistent	17.0	Consistent	50.0	Consistent		Consistent	Right	No	Moderate	Iatrogenic (surgery/intubation)	Yes	Intubation														
+224703		Consistent		Consistent	15.0	Consistent		Consistent	15.0	Consistent		Consistent	Right	Yes	No glottic gap	Iatrogenic (surgery/intubation)	Yes	Other			1.0											
+671969													Right	Yes	No glottic gap	Iatrogenic (surgery/intubation)	Yes	ACDF			1.0	1.0			1.0	1.0	1.0					
+776793	10.0	Consistent		Consistent	12.0	Consistent		Consistent	11.0	Consistent		Consistent	Right	Yes	Small	Idiopathic	Yes					1.0				1.0						1.0
+291021		Consistent		Consistent	5.0	Consistent		Consistent		Consistent		Consistent	Left	Yes	Small	Iatrogenic (surgery/intubation)	Yes	Thyroidectomy			1.0	1.0				1.0						1.0
+030375	15.0	Intermittent	14.0	Consistent	9.0	Intermittent	7.0	Intermittent	3.0	Intermittent	2.0	Consistent	Right	Yes	Small	Iatrogenic (surgery/intubation)	Yes	Brain Surgery				1.0			1.0		1.0					
+232532	84.0	Consistent	68.0	Consistent	50.0	Consistent	47.0	Consistent	10.0	Consistent	0.0	Consistent	Right	No	Moderate	Tumor invading RLN	Yes		Chest													
+874839	15.0	Consistent			25.0	Consistent			17.0	Consistent	0.0	Consistent	Left	Yes	Moderate	Iatrogenic (surgery/intubation)	Yes	ACDF				1.0				1.0						1.0
+414318													Right	No	No glottic gap	Other	Yes															
+654968													Left	Yes	Small	Idiopathic	Yes				1.0	1.0				1.0						1.0
+058765	15.0	Intermittent	27.0	Intermittent	18.0	Consistent	10.0	Intermittent	19.0	Intermittent	10.0	Intermittent	Right	No	No glottic gap	Iatrogenic (surgery/intubation)	Yes	ACDF														
+263424	20.0	Consistent	20.0	Consistent	60.0	Consistent	20.0		11.0	Consistent	60.0	Consistent	Right	Yes	Small	Iatrogenic (surgery/intubation)	Yes	Thyroidectomy				1.0				1.0						1.0
+725956	75.0	Consistent	61.0	Consistent	79.0	Consistent	56.0	Consistent	52.0	Consistent	50.0	Consistent	Right	No	Moderate	Idiopathic	Yes															
+658685	34.0	Consistent	28.0	Consistent	34.0	Consistent	34.0	Consistent	21.0	Consistent	0.0	Consistent	Left	Yes	Moderate	Iatrogenic (surgery/intubation)	Yes	Lung surgery				1.0				1.0						1.0
+388275	31.0	Consistent	14.0	Consistent	46.0	Consistent	50.0	Consistent	38.0	Consistent	17.0	Consistent	Right	Yes	Moderate	Other	Yes					1.0				1.0						1.0
+168546	99.0	Consistent	99.0	Consistent	94.0	Consistent	72.0	Consistent	91.0	Consistent	0.0	Consistent	Right	No	Large	Iatrogenic (surgery/intubation)	Yes	ACDF														
+913700	36.0	Consistent	14.0	Consistent	30.0	Consistent	0.0	Consistent	18.0	Intermittent	0.0	Consistent	Right	Yes	Small	Tumor invading RLN	Yes		Neck	1.0												
+528141	95.0	Consistent	40.0	Consistent	95.0	Consistent	20.0	Consistent	20.0	Consistent	40.0	Consistent	Right	No	Moderate	Radiation	Yes															
+796272	21.0	Consistent	15.0		20.0	Consistent	7.0	Consistent	10.0	Consistent	0.0	Consistent	Right	Yes	Small	Iatrogenic (surgery/intubation)	Yes	Other				1.0			1.0			1.0				
+819856	44.0	Consistent	38.0	Consistent	62.0	Consistent	69.0	Consistent	31.0	Consistent	7.0	Consistent	Right	Yes	Moderate	Idiopathic	Yes					1.0			1.0	1.0	1.0					1.0
+235453	5.0	Consistent	11.0	Consistent	6.0	Consistent	0.0		5.0	Consistent	6.0	Consistent	Right	Yes	No glottic gap	Iatrogenic (surgery/intubation)	Yes	Heart Surgery				1.0				1.0						1.0
+330412	0.0	Consistent	0.0	Consistent	17.0	Consistent	50.0	Consistent	34.0	Consistent	27.0	Consistent	Left	No	No glottic gap	Iatrogenic (surgery/intubation)	Yes	Lung surgery														
+642250													Right	Yes	No glottic gap	Iatrogenic (surgery/intubation)	Yes	Thyroidectomy				1.0				1.0						1.0
+712389	32.0		51.0	Consistent	54.0	Consistent	36.0	Consistent	53.0	Consistent	19.0	Consistent	Right	No	Moderate	Iatrogenic (surgery/intubation)	Yes	Intubation														
+298388	50.0	Consistent	15.0	Consistent	50.0	Consistent	20.0	Consistent	20.0	Consistent	0.0	Consistent	Left	No	Large	Iatrogenic (surgery/intubation)	Yes	Heart Surgery														
+424855	17.0	Consistent	20.0	Consistent	18.0	Consistent	23.0	Consistent	0.0	Consistent	0.0	Consistent	Right	Yes	Small	Iatrogenic (surgery/intubation)	Yes	Brain Surgery				1.0				1.0			1.0			
+971667													Left	Yes	No glottic gap	Iatrogenic (surgery/intubation)	Yes	ACDF				1.0			1.0	1.0		1.0	1.0			
+816441	20.0	Consistent	20.0	Consistent	37.0	Consistent	25.0	Intermittent	30.0	Consistent	25.0	Consistent	Right	No	Small	Idiopathic	Yes															
+440044	30.0	Consistent	37.0	Consistent	23.0	Consistent	0.0	Consistent	21.0	Consistent	0.0	Consistent	Right	Yes	Small	Other	Yes					1.0			1.0		1.0					
+633136	85.0	Consistent	92.0	Consistent	92.0	Consistent	50.0	Consistent	40.0	Consistent	11.0	Consistent	Left	No	Large	Iatrogenic (surgery/intubation)	Yes	Thyroidectomy														
+134175	23.0	Consistent	25.0	Consistent	30.0	Consistent	0.0	Consistent	20.0	Consistent	0.0	Consistent	Right	Yes	Small	Idiopathic	Yes					1.0				1.0						1.0
+257602													Left	Yes	Small	Idiopathic	Yes				1.0											
+360956	68.0	Consistent	74.0	Consistent	84.0	Consistent	78.0	Consistent	21.0	Consistent	24.0	Consistent	Left	No	Moderate	Idiopathic	Yes															
+248020													Right	Yes	No glottic gap	Idiopathic	Yes				1.0	1.0				1.0						1.0
+392498													Right	Yes	Moderate	Tumor invading RLN	Yes		Neck			1.0				1.0			1.0	1.0		
+960923	49.0	Consistent	81.0	Consistent	93.0	Consistent	50.0	Consistent	91.0	Consistent	0.0	Consistent	Left	No	Large	Other	Yes															
+514078	28.0	Consistent	18.0	Consistent	28.0	Consistent	5.0	Consistent	0.0	Consistent	0.0	Consistent	Right	Yes	Small	Iatrogenic (surgery/intubation)	Yes	Intubation				1.0				1.0						1.0
+852299	89.0	Consistent	91.0	Consistent	91.0	Consistent	37.0	Consistent	7.0	Consistent	0.0	Consistent	Left	No	Large	Tumor invading RLN	Yes		Neck													
+888862	63.0	Consistent	75.0		68.0	Consistent	20.0	Consistent	43.0	Consistent	0.0		Left	No	Moderate	Iatrogenic (surgery/intubation)	Yes	Other														
+980357	0.0	Consistent	0.0	Consistent	0.0	Consistent	0.0	Consistent	0.0	Consistent	0.0	Consistent	Left	Yes	No glottic gap	Tumor invading RLN	Yes		Chest			1.0				1.0						1.0
+631532													Left	No	Small	Iatrogenic (surgery/intubation)	No	Heart Surgery														
+833054	88.0	Consistent	75.0		81.0	Consistent	67.0	Consistent	47.0	Consistent	17.0	Consistent	Left	No	Large	Iatrogenic (surgery/intubation)	Yes	Intubation														
+474652	30.0	Consistent	44.0	Consistent	36.0	Consistent	47.0	Consistent	12.0	Consistent	5.0	Consistent	Left	No	Small	Iatrogenic (surgery/intubation)	Yes	Thyroidectomy														
+311954	15.0	Consistent	7.0	Consistent	10.0	Consistent	3.0	Consistent	7.0	Consistent	0.0	Consistent	Right	No	Small	Idiopathic	Yes															
+935747	7.0	Consistent	25.0		9.0	Consistent	18.0	Consistent	0.0	Consistent	0.0	Consistent	Right	Yes	No glottic gap	Iatrogenic (surgery/intubation)	Yes	Thyroidectomy				1.0				1.0						1.0
+189197													Right	Yes	No glottic gap	Iatrogenic (surgery/intubation)	Yes	ACDF			1.0	1.0			1.0	1.0	1.0	1.0				
+007385	20.0	Consistent	37.0	Consistent	30.0	Consistent	0.0	Consistent	20.0	Consistent	0.0	Consistent	Right	No	No glottic gap	Iatrogenic (surgery/intubation)	Yes	Brain Surgery														
+895779	76.0	Consistent	43.0	Consistent	77.0	Consistent	63.0	Consistent	61.0	Consistent	1.0	Consistent	Right	No	Large	Iatrogenic (surgery/intubation)	Yes	Intubation														
+638425	27.0	Consistent	62.0	Consistent	25.0	Consistent	64.0	Consistent	0.0	Consistent	15.0	Consistent	Left	Yes	Small	Iatrogenic (surgery/intubation)	Yes	Intubation				1.0				1.0						1.0
+094181													Left	Yes	No glottic gap	Iatrogenic (surgery/intubation)	Yes	Heart Surgery				1.0				1.0						1.0
+487484													Right	Yes	No glottic gap	Other	Yes				1.0											
+131335	20.0	Consistent		Consistent	20.0	Consistent		Consistent		Consistent		Consistent	Left	Yes	Small	Iatrogenic (surgery/intubation)	Yes	Other				1.0			1.0		1.0					
+488114	89.0	Consistent	49.0	Consistent	89.0	Consistent	50.0	Consistent		Consistent		Consistent	Left	Yes	Moderate	Idiopathic	Yes					1.0			1.0							
+004946	75.0	Consistent	60.0	Consistent	80.0	Consistent	25.0	Consistent	50.0	Intermittent	10.0	Intermittent	Left	Yes	Large	Idiopathic	Yes					1.0				1.0						1.0
+042365	25.0	Consistent	21.0	Consistent	41.0	Consistent	1.0	Consistent	15.0	Consistent	18.0	Consistent	Left	Yes	Small	Iatrogenic (surgery/intubation)	Yes	Other				1.0				1.0						1.0
+352754	3.0	Consistent	1.0	Consistent	9.0	Consistent	18.0	Consistent	15.0	Consistent	0.0	Consistent	Left	Yes	Small	Idiopathic	Yes				1.0											
+755461	15.0	Consistent	49.0	Consistent	67.0	Consistent	79.0		15.0	Consistent	50.0	Consistent	Left	Yes	Small	Iatrogenic (surgery/intubation)	Yes	Other				1.0				1.0			1.0			1.0
+146530	48.0	Consistent	29.0	Consistent	56.0	Consistent	28.0	Consistent	36.0	Consistent	0.0	Consistent	Left	Yes	Small	Iatrogenic (surgery/intubation)	Yes	Intubation			1.0	1.0				1.0						1.0
+936658	80.0	Consistent	68.0	Consistent	60.0	Consistent	43.0	Consistent	47.0	Consistent	61.0	Consistent	Right	No	Large	Iatrogenic (surgery/intubation)	Yes	ACDF														
+707334	40.0	Consistent	43.0		43.0	Consistent	10.0	Consistent	44.0	Consistent	0.0	Consistent	Right	Yes	Small	Iatrogenic (surgery/intubation)	Yes	Thyroidectomy				1.0		1.0								
+603178	5.0	Intermittent	5.0	Consistent	17.0	Intermittent	18.0	Consistent	46.0	Intermittent	40.0	Intermittent	Right	No	Small	Iatrogenic (surgery/intubation)	Yes	Thyroidectomy														
+511446	0.0	Consistent	0.0	Consistent	50.0	Consistent	0.0	Consistent	50.0	Consistent	50.0	Consistent	Left	Yes		Iatrogenic (surgery/intubation)	Yes	Intubation			1.0											
+063288	0.0	Consistent	0.0	Consistent	69.0	Consistent	63.0	Consistent	70.0	Consistent	32.0	Consistent	Left	Yes	Small	Iatrogenic (surgery/intubation)	Yes	Other				1.0				1.0						1.0
+925937	50.0	Consistent	57.0	Consistent	49.0	Consistent	44.0	Consistent	9.0	Consistent	15.0	Consistent	Right	No	Moderate	Iatrogenic (surgery/intubation)	Yes	Thyroidectomy														
+591337	51.0	Consistent	40.0	Consistent	33.0	Consistent	43.0	Consistent	12.0	Consistent	0.0	Consistent	Left	Yes	Small	Iatrogenic (surgery/intubation)	Yes	Lung surgery				1.0				1.0						1.0
+157641	40.0	Consistent	14.0	Consistent	47.0	Consistent	46.0	Intermittent	18.0	Consistent	3.0	Consistent	Right	Yes	Small	Iatrogenic (surgery/intubation)	Yes	Brain Surgery				1.0				1.0						1.0
+850343	0.0	Consistent	0.0	Consistent	25.0	Intermittent	0.0	Consistent	22.0	Intermittent	0.0	Consistent	Left	Yes	No glottic gap	Other	Yes					1.0				1.0						1.0
+707005	47.0	Consistent	20.0	Consistent	75.0	Consistent	69.0	Consistent	66.0	Consistent	15.0	Consistent	Left	Yes	Moderate	Iatrogenic (surgery/intubation)	Yes	Intubation				1.0				1.0						1.0

@@ -1,0 +1,59 @@
+participant_id	diagnois_bl_gold_standard_diagnosis	diagnosis_bl_degree_b_1	diagnosis_bl_degree_b_2	diagnosis_bl_degree_l_1	diagnosis_bl_degree_l_2	diagnosis_bl_degree_os_1	diagnosis_bl_degree_os_2	diagnosis_bl_degree_p_1	diagnosis_bl_degree_p_2	diagnosis_bl_degree_r_1	diagnosis_bl_degree_r_2	diagnosis_bl_degree_s_1	diagnosis_bl_degree_s_2	diagnosis_bl_ds	diagnosis_bl_ds_ll	diagnosis_bl_etiology	diagnosis_bl_treatment	diagnosis_bl_treatment_lm	diagnosis_bl_treatment_select___laryngeal_microsurgery	diagnosis_bl_treatment_select___other	diagnosis_bl_treatment_select___voice_or_speech_therapy	diagnosis_bl_treatment_select___voice_rest
+009249	Yes	15.0	Consistent	15.0	Consistent	89.0	Consistent	50.0	Intermittent	89.0	Consistent	30.0	Consistent	Reinke's edema	Both vocal folds	Other	No					
+889831	Yes	13.0	Consistent		Consistent	30.0	Consistent	10.0	Intermittent	30.0	Consistent	14.0	Intermittent	Vocal fold scarring	Left vocal fold	Phonotrauma	Yes				1.0	
+491625	Yes	0.0	Consistent	0.0	Consistent	17.0	Consistent	0.0	Consistent	15.0	Consistent	7.0	Consistent	Recurrent respiratory papilloma	Both vocal folds	HPV virus (RRP)	Yes	With laser	1.0			
+419070	Yes	0.0	Consistent	0.0	Consistent	18.0	Consistent	0.0	Consistent	20.0	Consistent	21.0	Consistent	Vocal fold scarring	Left vocal fold	Other	Yes			1.0	1.0	
+128245	Yes	0.0	Consistent	0.0	Intermittent	23.0	Consistent	0.0	Consistent	26.0	Consistent	27.0	Consistent	Fibrous masse (s)	Left vocal fold	Phonotrauma	No					
+027135	Yes													Recurrent respiratory papilloma	Both vocal folds	HPV virus (RRP)	Yes	With laser	1.0			
+820581	Yes	19.0		52.0		50.0		50.0		50.0		17.0		Reinke's edema	Both vocal folds	Other	Yes	With laser	1.0			
+935437	Yes													Vocal fold polyp	Right vocal fold	Phonotrauma	No					
+422736	Yes													Vocal fold cyst	Left vocal fold	Phonotrauma	Yes				1.0	
+474453	Yes	25.0	Consistent	50.0	Consistent	57.0	Consistent	66.0	Consistent	61.0	Consistent	12.0	Consistent	Other	Both vocal folds	Other	No					
+252372	Yes	0.0	Consistent	0.0	Consistent	84.0	Consistent	50.0	Consistent	90.0	Consistent	82.0	Consistent	Recurrent respiratory papilloma	Both vocal folds	HPV virus (RRP)	No					
+728889	Yes	25.0	Consistent	25.0	Consistent	60.0	Consistent			25.0	Consistent	25.0	Consistent	Vocal fold nodules	Both vocal folds	Phonotrauma	No					
+595588	Yes		Consistent	30.0	Consistent	68.0	Consistent	31.0	Consistent	69.0	Consistent	50.0	Consistent	Recurrent respiratory papilloma	Both vocal folds	HPV virus (RRP)	No					
+437984	Yes	0.0	Consistent	0.0	Consistent	25.0	Consistent	50.0	Consistent	25.0	Consistent	0.0	Consistent	Vocal fold nodules	Both vocal folds	Phonotrauma	Yes				1.0	
+157995	Yes	0.0	Consistent	0.0	Consistent	18.0	Consistent	0.0	Consistent	10.0	Consistent	15.0	Consistent	Recurrent respiratory papilloma	Both vocal folds	HPV virus (RRP)	Yes	With laser	1.0	1.0		
+066235	Yes													Vocal fold ulcers	Left vocal fold	Other	Yes			1.0		
+148589	Yes	0.0	Consistent	0.0	Consistent	21.0	Consistent	0.0	Consistent	23.0	Consistent	0.0	Consistent	Vocal fold ulcers	Both vocal folds	Other	Yes					1.0
+314439	Yes	15.0	Consistent		Consistent	25.0	Consistent	25.0	Intermittent	25.0	Consistent		Consistent	Vocal fold polyp	Left vocal fold	Phonotrauma	No					
+155816	Yes	0.0	Consistent	20.0	Consistent	20.0	Consistent	20.0	Intermittent	20.0	Consistent	20.0	Consistent	Vocal fold nodules	Both vocal folds	Phonotrauma	Yes				1.0	
+817351	Yes													Reinke's edema	Both vocal folds	Other	No					
+998226	Yes	21.0	Consistent	25.0	Consistent	49.0	Consistent	21.0	Consistent	50.0	Consistent	50.0	Consistent	Vocal fold scarring	Both vocal folds	Other	Yes	With laser	1.0			
+737642	Yes	0.0	Consistent	36.0	Consistent	20.0	Consistent	5.0	Consistent	28.0	Consistent	28.0	Consistent	Vocal fold nodules	Both vocal folds	Phonotrauma	No					
+233410	Yes	9.0	Consistent	0.0	Consistent	9.0	Consistent	25.0	Intermittent	10.0	Consistent	0.0	Consistent	Other	Both vocal folds	Other	Yes			1.0	1.0	
+627442	Yes	0.0	Consistent	0.0	Consistent	20.0	Consistent	0.0	Consistent	20.0	Consistent	20.0	Consistent	Recurrent respiratory papilloma	Left vocal fold	HPV virus (RRP)	Yes			1.0		
+541679	Yes		Consistent		Consistent	37.0	Consistent	10.0	Consistent	51.0	Consistent	10.0	Consistent	Other	Both vocal folds	Other	Yes			1.0		
+860890	Yes	15.0	Consistent		Consistent	7.0	Consistent		Consistent		Consistent		Consistent	Vocal fold nodules	Both vocal folds	Phonotrauma	Yes				1.0	
+661050	Yes	5.0	Consistent	0.0	Consistent	54.0	Consistent	0.0	Consistent	50.0	Consistent	50.0	Consistent	Recurrent respiratory papilloma	Both vocal folds	HPV virus (RRP)	Yes	With laser	1.0			
+159668	Yes	23.0	Consistent	23.0	Consistent	68.0	Consistent	0.0	Consistent	62.0	Consistent	65.0	Consistent	Vocal fold scarring	Both vocal folds	Other	No					
+799096	Yes	30.0	Intermittent			81.0	Consistent			28.0	Intermittent		Consistent	Vocal fold polyp	Both vocal folds	Phonotrauma	No					
+848855	Yes													Vocal fold polyp	Left vocal fold	Phonotrauma	No					
+505575	Yes	26.0	Consistent		Consistent	25.0	Consistent	19.0	Consistent	25.0	Consistent	21.0	Consistent	Vocal fold nodules	Both vocal folds	Phonotrauma	Yes			1.0	1.0	1.0
+283128	Yes		Consistent		Consistent	21.0	Consistent	10.0	Intermittent	28.0	Consistent		Consistent	Other	Left vocal fold	Other	Yes			1.0	1.0	
+572319	Yes	9.0	Consistent	0.0	Consistent	11.0	Consistent	0.0	Consistent	7.0	Consistent	3.0	Consistent	Vocal fold nodules	Both vocal folds	Phonotrauma	Yes			1.0		
+378811	Yes	27.0	Consistent	68.0	Consistent	73.0	Consistent	64.0	Consistent	69.0	Consistent	65.0	Consistent	Recurrent respiratory papilloma	Both vocal folds	HPV virus (RRP)	Yes			1.0		
+448477	Yes	0.0	Consistent	0.0	Consistent	28.0	Consistent	9.0	Consistent	30.0	Consistent	20.0	Consistent	Recurrent respiratory papilloma	Both vocal folds	HPV virus (RRP)	Yes	With laser	1.0			
+739734	Yes	0.0	Consistent	14.0	Consistent	18.0	Consistent	0.0	Consistent	23.0	Consistent	20.0	Consistent	Recurrent respiratory papilloma	Both vocal folds	HPV virus (RRP)	Yes	With laser	1.0			
+379630	Yes													Vocal fold polyp	Left vocal fold	Phonotrauma	Yes				1.0	
+008433	Yes	0.0	Consistent	0.0	Consistent	15.0	Consistent	0.0	Consistent	14.0	Consistent	0.0	Consistent	Vocal fold cyst	Left vocal fold	Other	No					
+272017	Yes	0.0	Consistent	0.0	Consistent	47.0	Consistent	0.0	Consistent	27.0	Consistent	52.0	Consistent	Fibrous masse (s)	Both vocal folds	Other	No					
+240738	Yes	0.0	Consistent	0.0	Consistent	23.0	Consistent	36.0	Consistent	24.0	Consistent	14.0	Consistent	Reinke's edema	Both vocal folds	Other	No					
+661447	Yes	2.0	Consistent	17.0	Consistent	64.0	Consistent	15.0	Consistent	62.0	Consistent	26.0	Consistent	Vocal fold scarring	Right vocal fold	Other	Yes				1.0	
+969412	Yes	36.0	Consistent	0.0	Consistent	27.0	Consistent	14.0	Consistent	10.0	Consistent	10.0	Consistent	Vocal fold cyst	Left vocal fold	Phonotrauma	Yes				1.0	
+890541	Yes	0.0	Consistent	18.0		34.0	Consistent	41.0	Consistent	44.0	Consistent	43.0	Consistent	Other	Both vocal folds	Other	No					
+946657	Yes	31.0	Consistent	18.0	Consistent	54.0	Consistent	15.0		54.0	Consistent	15.0	Intermittent	Vocal fold nodules	Both vocal folds	Phonotrauma	Yes				1.0	
+306355	Yes	67.0	Consistent	62.0	Consistent	75.0	Consistent	56.0	Consistent	61.0	Consistent	64.0	Consistent	Recurrent respiratory papilloma	Both vocal folds	HPV virus (RRP)	Yes	With laser	1.0	1.0		
+976929	Yes		Consistent		Consistent	69.0	Consistent	55.0	Consistent	50.0	Consistent	51.0	Consistent	Other	Both vocal folds	Other	Yes			1.0		
+808926	Yes	1.0	Consistent	0.0	Consistent	15.0	Consistent	2.0	Consistent	22.0	Consistent	0.0	Consistent	Vocal fold polyp	Left vocal fold	Other	No					
+346092	Yes	0.0	Consistent	11.0	Consistent	20.0	Consistent	34.0	Intermittent	20.0	Consistent	33.0	Consistent	Vocal fold polyp	Left vocal fold	Phonotrauma	No					
+092864	Yes	11.0	Intermittent			36.0	Consistent			36.0				Vocal fold ulcers	Both vocal folds	Phonotrauma	Yes			1.0		1.0
+990696	Yes		Consistent		Consistent	25.0	Consistent		Consistent	25.0	Consistent		Consistent	Other	Right vocal fold	Other	Yes	With laser	1.0			
+748823	Yes	0.0	Consistent	0.0	Consistent	25.0	Consistent	25.0	Intermittent	25.0	Consistent	0.0	Consistent	Vocal fold nodules	Both vocal folds	Phonotrauma	Yes				1.0	
+213384	Yes		Consistent	10.0	Consistent	15.0	Consistent	10.0	Consistent	15.0	Consistent	11.0	Consistent	Vocal fold nodules	Both vocal folds	Phonotrauma	Yes			1.0	1.0	
+808242	Yes	0.0	Consistent	0.0	Consistent	40.0	Consistent	77.0	Consistent	34.0	Consistent	0.0	Consistent	Reinke's edema	Both vocal folds	Other	No					
+964711	Yes	0.0	Consistent	0.0	Consistent	50.0	Consistent	50.0	Consistent	47.0	Consistent	25.0	Consistent	Reinke's edema	Both vocal folds	Other	No					
+591022	Yes	0.0	Consistent	0.0	Consistent	14.0	Intermittent	0.0	Consistent	14.0	Intermittent	0.0	Consistent	Other	Both vocal folds	Phonotrauma	Yes	Without laser	1.0		1.0	
+620102	Yes	0.0	Consistent	0.0	Consistent	10.0	Intermittent	8.0	Consistent	5.0	Intermittent	0.0	Consistent	Vocal fold cyst	Right vocal fold	Phonotrauma	Yes			1.0	1.0	
+501329	Yes	0.0	Consistent	0.0	Consistent	20.0	Consistent	0.0	Consistent	15.0	Consistent	15.0	Consistent	Vocal fold polyp	Left vocal fold	Phonotrauma	Yes				1.0	
+855293	Yes	0.0	Consistent	20.0	Consistent	47.0	Consistent	0.0	Consistent	47.0	Consistent	20.0	Consistent	Recurrent respiratory papilloma	Both vocal folds	HPV virus (RRP)	Yes	With laser	1.0			

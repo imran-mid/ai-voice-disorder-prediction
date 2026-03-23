@@ -1,0 +1,79 @@
+participant_id	diagnosis_ld_degree_b_1	diagnosis_ld_degree_b_2	diagnosis_ld_degree_comments	diagnosis_ld_degree_l_1	diagnosis_ld_degree_l_2	diagnosis_ld_degree_os_1	diagnosis_ld_degree_os_2	diagnosis_ld_degree_p_1	diagnosis_ld_degree_p_2	diagnosis_ld_degree_r_1	diagnosis_ld_degree_r_2	diagnosis_ld_degree_s_1	diagnosis_ld_degree_s_2	diagnosis_ld_etiology	diagnosis_ld_gold_standard_diagnosis	diagnosis_ld_treatment	diagnosis_ld_treatment_bi_li	diagnosis_ld_assessment___aural_perceptual_evaluation	diagnosis_ld_assessment___laryngoscopy_or_stroboscopy	diagnosis_ld_assessment___neurological_evaluation	diagnosis_ld_ds___abld	diagnosis_ld_ds___adld	diagnosis_ld_ds___arld	diagnosis_ld_ds___mixed_laryngeal_dystonia	diagnosis_ld_ds___sld	diagnosis_ld_ds___vocal_tremor	diagnosis_ld_etiology_cc___dystonia_of_the_head_and_neck	diagnosis_ld_etiology_cc___essential_tremor_of_the_hands	diagnosis_ld_etiology_cc___essential_tremor_of_the_head	diagnosis_ld_etiology_cc___jaw_tremor	diagnosis_ld_etiology_cc___other_type_of_dystonia	diagnosis_ld_qete___laryngologist	diagnosis_ld_qete___neurologist_specializing_disorders	diagnosis_ld_qete___speech_language_pathology	diagnosis_ld_treatment_select___botox_injections	diagnosis_ld_treatment_select___deep_brain_stimulation	diagnosis_ld_treatment_select___mrgfus	diagnosis_ld_treatment_select___other	diagnosis_ld_treatment_select___vibrotactile_stimulation	diagnosis_ld_treatment_select___voice_or_speech_therapy
+006127		Consistent	Normal	20.0	Consistent	60.0	Consistent		Consistent	60.0	Consistent	60.0	Consistent	Idiopathic		Yes	10.0	1	1.0			1.0										1.0			1.0					
+890476	0.0	Consistent	Normal	28.0	Consistent	75.0	Consistent	0.0	Consistent	52.0	Consistent	46.0	Consistent	Idiopathic		Yes	20.0	1	1.0	1.0		1.0				1.0		1.0				1.0	1.0	1.0	1.0					
+593642	0.0	Consistent	Normal	0.0	Consistent	50.0	Consistent	50.0	Consistent	25.0	Consistent	50.0	Consistent	Idiopathic		Yes	8.0	1	1.0			1.0										1.0			1.0					
+150099														Idiopathic		Yes	12.0	1	1.0			1.0										1.0		1.0	1.0					
+880250	0.0	Consistent	Normal	0.0	Consistent	75.0	Consistent	31.0	Consistent	0.0	Consistent	23.0	Consistent	Idiopathic		Yes	8.0	1	1.0			1.0				1.0						1.0		1.0	1.0					
+580261	3.0	Consistent	Other	0.0	Consistent	20.0	Consistent	0.0	Consistent	20.0	Consistent	5.0	Consistent	Unknown	Yes	Yes	10.0	1	1.0			1.0													1.0					
+360057		Consistent	Normal			34.0	Consistent	20.0	Consistent		Consistent	30.0	Consistent	Familial		Yes	20.0	1	1.0	1.0						1.0		1.0				1.0	1.0	1.0	1.0					1.0
+171509	60.0	Consistent	Normal		Consistent	60.0	Consistent		Consistent		Consistent	20.0	Consistent	Idiopathic		Yes	4.0	1	1.0		1.0											1.0		1.0	1.0				1.0	1.0
+342832	94.0		Normal	72.0	Consistent	94.0	Consistent				Consistent		Consistent	Idiopathic		Yes	16.0	1	1.0		1.0											1.0		1.0	1.0					
+626607	25.0	Consistent	Normal	33.0	Consistent	51.0	Consistent	0.0	Consistent	0.0	Consistent	17.0	Consistent	Idiopathic		Yes	15.0	1	1.0	1.0						1.0	1.0					1.0		1.0	1.0					1.0
+895520	40.0	Consistent	Normal	31.0	Consistent	20.0	Consistent	0.0	Consistent	10.0	Consistent	20.0	Consistent	Idiopathic		Yes	12.0	1	1.0		1.0											1.0		1.0	1.0					
+336669	20.0	Consistent	Normal	25.0	Consistent	50.0	Consistent	25.0	Intermittent	0.0	Consistent	25.0	Consistent	Idiopathic		Yes	0.0	1	1.0							1.0			1.0			1.0			1.0					
+765626	25.0	Intermittent	Normal	25.0	Consistent	50.0	Consistent	25.0	Intermittent	25.0	Consistent	50.0	Consistent	Idiopathic		Yes	12.0	1	1.0							1.0						1.0			1.0					
+911232														Unknown	Yes	Yes	19.0	1	1.0	1.0						1.0		1.0	1.0			1.0		1.0	1.0					
+065215														Unknown		Yes	24.0	1	1.0			1.0										1.0			1.0					
+073849	0.0	Consistent	Normal	10.0	Intermittent	38.0	Consistent	0.0	Consistent	18.0	Consistent	51.0	Intermittent	Idiopathic		No		1	1.0			1.0										1.0		1.0						
+514994	20.0	Consistent	Normal	25.0	Consistent	70.0	Consistent		Consistent		Consistent		Consistent	Idiopathic		No		1	1.0							1.0	1.0					1.0								
+857784		Consistent	Normal	20.0	Consistent	50.0	Consistent	20.0	Consistent		Consistent	50.0	Consistent	Idiopathic		Yes	10.0	1	1.0			1.0										1.0		1.0	1.0					
+716192	0.0	Consistent	Normal	0.0	Consistent	18.0	Consistent	17.0	Consistent	0.0	Consistent	31.0	Consistent	Idiopathic		Yes	12.0	1	1.0							1.0						1.0		1.0	1.0					1.0
+683543	0.0	Consistent	Normal	0.0	Consistent	56.0	Consistent	0.0	Consistent	0.0	Consistent	12.0	Consistent	Familial		Yes	16.0	1	1.0	1.0						1.0						1.0	1.0	1.0	1.0					1.0
+522754		Consistent	Normal	55.0	Intermittent	89.0	Intermittent	76.0	Consistent	28.0	Intermittent	87.0	Consistent	Unknown		Yes	12.0	1	1.0			1.0										1.0		1.0	1.0					
+666098	6.0	Consistent	Normal	25.0	Consistent	24.0	Consistent	0.0	Consistent	21.0	Consistent	56.0	Consistent	Idiopathic	Yes	Yes	12.0	1	1.0			1.0		1.0											1.0					
+030935	30.0	Intermittent	Normal	1.0	Consistent	61.0	Consistent	1.0	Consistent	0.0	Consistent	29.0	Consistent	Familial	Yes	Yes	2.0	1	1.0			1.0				1.0									1.0					1.0
+457130	2.0	Consistent	Normal	28.0	Consistent	23.0	Consistent	0.0	Consistent	20.0	Consistent	31.0	Consistent	Idiopathic		No		1	1.0							1.0						1.0		1.0						
+791623														Familial		Yes	11.0	1	1.0			1.0										1.0		1.0	1.0					
+377720	2.0	Intermittent	Normal	51.0	Intermittent	95.0	Consistent	50.0	Consistent	9.0	Consistent	93.0	Consistent	Idiopathic		Yes		1	1.0	1.0						1.0	1.0	1.0	1.0			1.0	1.0	1.0						1.0
+426071														Familial		Yes	9.0	1	1.0	1.0						1.0		1.0				1.0		1.0	1.0					
+188345															Yes	Yes		1	1.0																1.0					
+404060	5.0	Intermittent	Other	15.0	Consistent	33.0	Consistent	7.0	Consistent	40.0	Consistent	31.0	Consistent	Idiopathic	Yes	Yes		1	1.0							1.0														1.0
+918694	0.0	Consistent	Normal	0.0	Consistent	69.0	Consistent	10.0	Consistent	10.0	Consistent	0.0	Consistent	Familial		No		1	1.0	1.0						1.0	1.0	1.0	1.0			1.0	1.0	1.0						
+818506	0.0	Consistent	Normal	0.0	Consistent	36.0	Consistent	0.0	Consistent	0.0	Consistent	33.0	Consistent	Idiopathic		Yes	14.0	1	1.0			1.0										1.0		1.0	1.0					
+453658	15.0	Consistent	Normal	15.0		25.0	Consistent	15.0	Consistent		Consistent		Consistent	Idiopathic		Yes	26.0	1	1.0							1.0						1.0		1.0	1.0					
+813369														Unknown		Yes	13.0	1	1.0							1.0						1.0		1.0	1.0					
+470612	5.0	Consistent	Other	0.0	Consistent	15.0	Consistent	0.0	Consistent	17.0	Consistent	2.0	Consistent	Unknown	Yes	Yes	12.0	1	1.0			1.0													1.0					
+452418														Familial		Yes	12.0	1	1.0	1.0						1.0			1.0			1.0		1.0	1.0					1.0
+692034	23.0	Consistent	Normal	60.0	Consistent	68.0	Consistent	44.0	Consistent	46.0	Consistent	15.0	Consistent	Idiopathic		Yes	30.0	1	1.0	1.0						1.0	1.0	1.0				1.0	1.0	1.0	1.0					
+089247	18.0	Consistent	Normal	40.0	Consistent	61.0	Consistent	15.0	Consistent	1.0	Consistent	0.0	Consistent	Idiopathic		Yes	14.0	1	1.0	1.0						1.0	1.0					1.0	1.0	1.0	1.0					
+541735	0.0	Consistent	Other	0.0	Consistent	68.0	Consistent	20.0	Consistent	41.0	Intermittent	68.0	Intermittent	Unknown	Yes	Yes	10.0	1	1.0			1.0													1.0					
+793133														Unknown		Yes	13.0	1	1.0	1.0						1.0						1.0		1.0	1.0					1.0
+658277	20.0	Consistent	Normal		Consistent	75.0	Consistent	20.0	Consistent		Consistent	75.0	Consistent	Idiopathic		Yes	30.0	1	1.0							1.0						1.0		1.0	1.0					1.0
+243042		Consistent	Normal	25.0	Consistent	25.0	Consistent			25.0	Consistent	25.0	Consistent	Idiopathic		Yes	13.0	1	1.0			1.0				1.0						1.0		1.0	1.0					
+910918	0.0	Consistent	Normal	33.0	Consistent	34.0	Consistent	15.0	Consistent	10.0	Consistent	34.0	Consistent	Idiopathic		No		1	1.0							1.0						1.0		1.0						
+926605		Consistent	Normal		Consistent	17.0	Consistent		Consistent	15.0	Consistent	0.0	Consistent	Unknown		Yes	12.0	1	1.0			1.0				1.0						1.0		1.0	1.0					
+517100														Unknown		Yes	25.0	1	1.0			1.0				1.0		1.0				1.0		1.0	1.0					1.0
+702087														Familial		Yes	22.0	1	1.0	1.0						1.0		1.0	1.0			1.0		1.0	1.0					
+373726		Consistent	Normal			47.0	Consistent	30.0	Intermittent		Consistent	21.0	Consistent	Unknown		Yes	3.0	1	1.0			1.0										1.0		1.0	1.0					
+191708	17.0	Consistent	Normal		Consistent	75.0	Consistent	14.0	Consistent	15.0	Consistent	49.0	Consistent	Unknown		Yes	17.0	1	1.0			1.0				1.0		1.0	1.0			1.0		1.0	1.0	1.0				
+904507														Unknown		Yes	20.0	1	1.0			1.0										1.0		1.0	1.0					1.0
+142237	20.0	Consistent		20.0	Consistent	60.0	Consistent	0.0	Consistent		Consistent	20.0	Consistent	Idiopathic		Yes	12.0	1	1.0							1.0			1.0			1.0			1.0					
+794911		Consistent	Normal	20.0	Consistent	60.0	Consistent		Consistent	20.0	Consistent	60.0	Consistent	Idiopathic		Yes		1	1.0	1.0						1.0						1.0		1.0						1.0
+127557	31.0	Consistent	Normal	44.0	Consistent	41.0	Consistent	18.0	Consistent	36.0	Consistent	0.0	Consistent	Idiopathic		Yes	12.0	1	1.0					1.0								1.0		1.0	1.0					
+828141	0.0	Consistent	Normal	49.0	Consistent	73.0	Consistent	46.0	Consistent	49.0	Consistent	86.0	Consistent	Idiopathic		Yes	16.0	1	1.0			1.0										1.0		1.0	1.0					
+631464		Consistent	Normal	20.0	Consistent	50.0	Consistent		Consistent	15.0	Consistent	50.0	Intermittent	Idiopathic		Yes	19.0	1	1.0			1.0				1.0						1.0			1.0					
+947978	10.0	Consistent	Normal	0.0	Consistent	62.0	Consistent	23.0	Consistent	21.0	Consistent	10.0	Consistent	Idiopathic		Yes	12.0	1	1.0					1.0								1.0		1.0	1.0					
+198872	0.0	Consistent	Normal	0.0	Consistent	10.0	Intermittent	0.0	Consistent	0.0	Consistent	9.0	Intermittent	Idiopathic		Yes	20.0	1	1.0			1.0										1.0		1.0	1.0					
+019140	50.0	Consistent	Normal	40.0	Consistent	50.0	Consistent	0.0	Consistent	0.0	Consistent	0.0	Consistent	Idiopathic		Yes	16.0	1	1.0							1.0						1.0		1.0	1.0					
+140761														Unknown		Yes	12.0	1	1.0			1.0										1.0		1.0	1.0					
+654525														Other		Yes	12.0	1	1.0	1.0						1.0						1.0		1.0	1.0					1.0
+380204		Consistent	Normal	10.0	Intermittent	40.0	Intermittent	28.0	Intermittent	43.0	Intermittent	28.0	Intermittent	Unknown		Yes	16.0	1	1.0			1.0										1.0		1.0	1.0					
+400495	20.0	Consistent	Normal	23.0	Consistent	70.0	Consistent		Consistent		Consistent	70.0	Consistent	Idiopathic		Yes	13.0	1	1.0			1.0										1.0		1.0	1.0					
+627595		Consistent	Normal		Consistent	20.0	Intermittent		Consistent		Consistent	20.0	Intermittent	Idiopathic		Yes	14.0	1	1.0	1.0		1.0									1.0	1.0	1.0		1.0					1.0
+856946														Other	Yes	Yes		1	1.0							1.0														1.0
+576719	0.0	Consistent	Normal	20.0	Consistent	66.0	Consistent	25.0	Intermittent	25.0	Consistent	66.0	Consistent	Idiopathic		No		1	1.0							1.0						1.0		1.0						
+297376	0.0	Consistent	Normal	37.0	Consistent	43.0	Consistent	0.0	Consistent	0.0	Consistent	43.0	Consistent	Idiopathic		No		1				1.0										1.0		1.0						
+264418	50.0	Consistent	Normal	0.0	Consistent	80.0	Consistent	0.0	Consistent	0.0	Consistent	25.0	Consistent	Idiopathic		Yes	52.0	1	1.0							1.0						1.0		1.0	1.0					1.0
+837846	100.0	Consistent	Normal	80.0	Consistent	85.0	Consistent	0.0	Consistent	0.0	Consistent	0.0	Consistent	Idiopathic		Yes	2.0	1	1.0	1.0	1.0											1.0		1.0	1.0					1.0
+967883	31.0	Consistent	Normal	58.0	Consistent	64.0	Consistent	0.0	Consistent	5.0	Consistent	0.0	Consistent	Idiopathic		Yes	12.0	1	1.0	1.0						1.0	1.0			1.0		1.0	1.0	1.0	1.0					
+399630		Consistent	Normal	31.0	Intermittent	81.0	Consistent	17.0		18.0	Consistent	58.0	Consistent	Unknown		Yes		1	1.0			1.0										1.0		1.0						1.0
+764970		Consistent	Normal		Consistent	76.0	Consistent	55.0	Consistent	67.0	Consistent	20.0	Consistent	Unknown		No		1	1.0			1.0				1.0						1.0		1.0						
+721435			Other	15.0	Consistent	52.0	Consistent	14.0	Consistent	51.0	Intermittent	24.0	Intermittent	Unknown	Yes	Yes	20.0	1	1.0			1.0													1.0					
+535369														Idiopathic		Yes	0.0	1	1.0	1.0						1.0						1.0	1.0	1.0	1.0					1.0
+296131	34.0	Consistent	Normal	47.0	Consistent	38.0	Consistent	0.0	Consistent	9.0	Consistent	9.0	Consistent	Idiopathic		Yes	30.0	1	1.0			1.0										1.0		1.0	1.0					
+890990	23.0	Consistent	Normal	16.0	Consistent	23.0	Consistent	24.0	Consistent	6.0	Consistent	0.0	Consistent	Idiopathic	Yes	Yes	12.0	1	1.0	1.0						1.0									1.0					
+164394	0.0	Consistent	Normal	0.0	Consistent	20.0	Consistent	0.0	Consistent	0.0	Consistent	0.0	Consistent	Idiopathic	Yes	Yes	12.0	1	1.0	1.0						1.0						1.0		1.0	1.0					
+823266	5.0	Consistent	Other	19.0	Consistent	71.0	Consistent	44.0	Consistent	40.0	Consistent	75.0	Consistent	Idiopathic	Yes	Yes	14.0	1	1.0	1.0		1.0						1.0			1.0				1.0					1.0
+547947	0.0	Consistent	Normal	0.0	Consistent	41.0	Consistent	0.0	Consistent	0.0	Consistent	46.0	Consistent	Idiopathic		No		1	1.0			1.0										1.0		1.0						
+213260	15.0	Consistent	Normal	0.0	Consistent	36.0	Consistent	40.0	Consistent	18.0	Consistent	10.0	Consistent	Idiopathic		Yes	20.0	1	1.0							1.0						1.0		1.0	1.0					
+513128	35.0	Consistent	Normal	31.0	Consistent	20.0	Consistent	0.0	Consistent	9.0	Consistent	20.0	Consistent	Idiopathic		Yes	12.0	1	1.0		1.0											1.0		1.0	1.0					

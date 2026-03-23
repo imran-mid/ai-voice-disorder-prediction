@@ -1,0 +1,139 @@
+participant_id	diagnosis_as_as	diagnosis_as_as_c	diagnosis_as_as_s	diagnosis_as_ds	diagnosis_as_ds_ac	diagnosis_as_ds_ac_grade_4	diagnosis_as_ds_agw	diagnosis_as_ds_bc	diagnosis_as_ds_bvfi_gs	diagnosis_as_ds_eps	diagnosis_as_ds_mcg	diagnosis_as_ds_ods	diagnosis_as_etiology	diagnosis_as_etiology_auto_immune	diagnosis_as_gold_standard_diagnosis	diagnosis_as_pft	diagnosis_as_gold_standard_diagnosis_yes___bronchoscopy	diagnosis_as_gold_standard_diagnosis_yes___ct	diagnosis_as_treatment___in_office_treatment	diagnosis_as_treatment___no_treatment	diagnosis_as_treatment___surgery	diagnosis_as_treatment_in_office___dilation	diagnosis_as_treatment_in_office___laser	diagnosis_as_treatment_in_office___steroid_injections_adjunct	diagnosis_as_treatment_in_office___steroid_injections_sole	diagnosis_as_treatment_surgery___endoscopic_excision	diagnosis_as_treatment_surgery___endoscopic_intervention	diagnosis_as_treatment_surgery___laryngotracheal_reconstruction	diagnosis_as_treatment_surgery___laryngotracheoplasty	diagnosis_as_treatment_surgery___other	diagnosis_as_treatment_surgery___tracheostomy
+005009	No			Subglottic Stenosis						50.0	Grade II	Moderate	Iatrogenic (surgery or intubation)		Yes	No	1.0	1.0			1.0						1.0	1.0			
+821259	Yes	Inspiratory	Mild	Subglottic Stenosis						30.0	Grade I	Mild	Auto-immune or granulomatous disease	Granulomatosis with polyangiitis (GPA) (Formerly known as Wegner's disease)	Yes	Yes	1.0			1.0											
+047274	No			Subglottic Stenosis						10.0	Grade I	Mild	Idiopathic		Yes	No	1.0				1.0					1.0					
+312922	No			Subglottic Stenosis						60.0	Grade II	Moderate	Idiopathic		Yes	No	1.0		1.0		1.0				1.0		1.0				
+239828	Yes	Inspiratory	Mild	Bilateral Vocal fold immobility or Glottic Stenosis				(d) Class 4	Posterior Glottic Stenosis	75.0		Severe	Radiation		Yes	No	1.0				1.0						1.0				
+936204	No			Subglottic Stenosis						30.0	Grade I	Mild	Idiopathic		Yes	No	1.0		1.0		1.0			1.0			1.0				
+512351	No			Bilateral Vocal fold immobility or Glottic Stenosis				(a) Class 1	Posterior Glottic Stenosis	20.0		Mild	Iatrogenic (surgery or intubation)		Yes	No	1.0			1.0											
+982104	No			Tracheal Stenosis						51.0	Grade II	Mild	Iatrogenic (surgery or intubation)		Yes	No	1.0	1.0	1.0		1.0			1.0		1.0					
+844445	No			Tracheal Stenosis							Grade I	Mild	Iatrogenic (surgery or intubation)		Yes	Yes	1.0				1.0					1.0	1.0				
+910809	Yes	Inspiratory	Mild	Multi-Level Upper Airway Stenosis						80.0		Moderate	Iatrogenic (surgery or intubation)		Yes	No	1.0				1.0									1.0	
+244546				Bilateral Vocal fold immobility or Glottic Stenosis					Bilateral Vocal Fold Paralysis	68.0		Moderate	Iatrogenic (surgery or intubation)		Yes	No	1.0	1.0		1.0											
+903265	Yes	Inspiratory	Mild	Bilateral Vocal fold immobility or Glottic Stenosis				(c) Class 3	Posterior Glottic Stenosis	51.0		Mild	Not certain or TBD		Yes	No	1.0	1.0			1.0						1.0				
+779817	No			Subglottic Stenosis						20.0	Grade I	Mild	Idiopathic		Yes	No	1.0		1.0		1.0			1.0		1.0					
+864615	Yes	Biphasic	Moderate	Subglottic Stenosis						64.0	Grade III	Moderate	Idiopathic		Yes	Yes	1.0	1.0			1.0						1.0				
+562113	No			Bilateral Vocal fold immobility or Glottic Stenosis				(d) Class 4	Posterior Glottic Stenosis	80.0		Severe	Iatrogenic (surgery or intubation)		Yes	No	1.0	1.0			1.0									1.0	1.0
+792463	No			Subglottic Stenosis						55.0	Grade II	Moderate	Idiopathic		Yes	No	1.0	1.0			1.0						1.0				
+115633	No			Subglottic Stenosis						10.0	Grade I	Mild	Idiopathic		Yes	Yes	1.0	1.0			1.0					1.0					
+973734	No			Subglottic Stenosis						10.0	Grade I	Mild	Idiopathic		Yes	No	1.0		1.0		1.0			1.0			1.0				
+855543	No			Subglottic Stenosis						10.0	Grade I	Mild	Idiopathic		Yes	Yes	1.0		1.0		1.0			1.0		1.0	1.0				
+136753				Subglottic Stenosis						61.0	Grade II	Moderate	Idiopathic		Yes	No	1.0		1.0		1.0			1.0			1.0				
+397579	No			Subglottic Stenosis						10.0	Grade I	Mild	Idiopathic		Yes	No	1.0				1.0						1.0				
+962057	No			Subglottic Stenosis						20.0	Grade I	Mild	Idiopathic		Yes	Yes	1.0	1.0			1.0					1.0					
+680012	No			Subglottic Stenosis						35.0	Grade I	Mild	Idiopathic		Yes	No	1.0				1.0					1.0	1.0				
+161888	Yes	Inspiratory	Mild	Subglottic Stenosis						74.0	Grade III	Severe	Idiopathic		Yes	Not certain	1.0				1.0						1.0				
+996900	Yes	Inspiratory	Mild	Bilateral Vocal fold immobility or Glottic Stenosis					Bilateral Vocal Fold Paralysis			Severe	Iatrogenic (surgery or intubation)		Yes	Yes	1.0				1.0									1.0	
+836970	No			Subglottic Stenosis						75.0	Grade III	Severe	Idiopathic		Yes	Yes	1.0				1.0						1.0				
+869371	No			Subglottic Stenosis						30.0	Grade I	Mild	Idiopathic		Yes	No	1.0		1.0		1.0			1.0			1.0				
+952673	No			Tracheal Stenosis						40.0	Grade I	Mild	Not certain or TBD		Yes	Yes	1.0	1.0		1.0											
+712389	No			Subglottic Stenosis						48.0	Grade II	Moderate	Iatrogenic (surgery or intubation)		Yes	No	1.0	1.0		1.0											
+998226	Yes	Inspiratory	Mild	Bilateral Vocal fold immobility or Glottic Stenosis					Other	60.0		Moderate	Iatrogenic (surgery or intubation)		Yes	Yes	1.0				1.0									1.0	
+625987	Yes	Inspiratory	Mild	Subglottic Stenosis						56.0	Grade II	Moderate	Idiopathic		Yes	No	1.0		1.0		1.0			1.0			1.0				
+228138	No			Subglottic Stenosis						0.0	Grade I	Mild	Auto-immune or granulomatous disease	Granulomatosis with polyangiitis (GPA) (Formerly known as Wegner's disease)	Yes	Yes	1.0				1.0					1.0					
+115056	No			Subglottic Stenosis							Grade I	Mild	Idiopathic		Yes	Not certain	1.0				1.0						1.0				
+373756	No			Subglottic Stenosis						25.0	Grade I	Mild	Idiopathic		Yes	No	1.0		1.0		1.0			1.0		1.0					
+440044	Yes	Inspiratory	Mild	Multi-Level Upper Airway Stenosis						61.0		Moderate	Idiopathic		Yes	No	1.0		1.0		1.0			1.0		1.0	1.0				
+486220	No			Bilateral Vocal fold immobility or Glottic Stenosis				(d) Class 4	Posterior Glottic Stenosis	20.0		Moderate	Iatrogenic (surgery or intubation)		Yes	No	1.0	1.0			1.0									1.0	1.0
+201547	Yes	Inspiratory	Moderate	Bilateral Vocal fold immobility or Glottic Stenosis					Bilateral Vocal Fold Paralysis			Moderate	Iatrogenic (surgery or intubation)		Yes	No	1.0				1.0									1.0	
+392308	No			Subglottic Stenosis						60.0	Grade II	Moderate	Idiopathic		Yes	No	1.0				1.0						1.0				
+787796	No			Bilateral Vocal fold immobility or Glottic Stenosis					Bilateral Vocal Fold Paralysis	64.0		Moderate	Iatrogenic (surgery or intubation)		Yes	No	1.0				1.0									1.0	
+096333				Subglottic Stenosis						38.0	Grade I	Mild	Idiopathic		Yes	No	1.0		1.0		1.0			1.0			1.0				
+466531				Subglottic Stenosis						10.0	Grade I	Mild	Idiopathic		Yes	No	1.0		1.0		1.0			1.0			1.0				
+226606	No			Subglottic Stenosis						15.0	Grade I	Mild	Idiopathic		Yes	No	1.0				1.0						1.0				
+421294	No			Subglottic Stenosis						25.0	Grade I	Mild	Idiopathic		Yes	Not certain	1.0				1.0						1.0				
+308028	No			Subglottic Stenosis						85.0	Grade III	Severe	Idiopathic		Yes	Yes	1.0				1.0						1.0				
+482253				Subglottic Stenosis						68.0	Grade II	Moderate	Idiopathic		Yes	No	1.0	1.0	1.0		1.0			1.0			1.0				
+663574				Subglottic Stenosis						80.0	Grade III	Severe	Idiopathic		Yes	No	1.0	1.0	1.0		1.0			1.0			1.0				
+703891	No			Subglottic Stenosis						10.0	Grade I	Mild	Idiopathic		Yes	No	1.0	1.0	1.0		1.0			1.0			1.0				
+063422	No			Subglottic Stenosis						60.0	Grade II	Moderate	Idiopathic		Yes	No	1.0				1.0						1.0				
+303827				Subglottic Stenosis						28.0	Grade I	Mild	Idiopathic		No	No			1.0		1.0			1.0			1.0				
+247655	Yes	Biphasic	Mild	Tracheal Stenosis						50.0	Grade I	Mild	Idiopathic		Yes	No	1.0	1.0			1.0						1.0				
+545459	No			Subglottic Stenosis						69.0	Grade III	Severe	Not certain or TBD		Not certain	No					1.0										1.0
+133711	Yes	Inspiratory	Moderate	Subglottic Stenosis						75.0	Grade III	Severe	Idiopathic		Yes	Yes	1.0		1.0		1.0			1.0			1.0				
+063169	No			Subglottic Stenosis							Grade I	Mild	Auto-immune or granulomatous disease	Granulomatosis with polyangiitis (GPA) (Formerly known as Wegner's disease)	Yes	Yes	1.0	1.0		1.0											
+635017	Yes	Inspiratory	Mild	Subglottic Stenosis						30.0	Grade I	Moderate	Idiopathic		Yes	No	1.0		1.0		1.0			1.0			1.0				
+874065	No			Subglottic Stenosis						40.0	Grade I	Moderate	Auto-immune or granulomatous disease	Granulomatosis with polyangiitis (GPA) (Formerly known as Wegner's disease)	Yes	No	1.0		1.0		1.0			1.0		1.0					
+938049				Subglottic Stenosis						10.0	Grade I	Mild	Idiopathic		Yes	No	1.0		1.0		1.0			1.0		1.0					
+159982				Subglottic Stenosis						30.0	Grade I	Mild	Idiopathic		Yes	Not certain	1.0		1.0		1.0			1.0			1.0				
+600667	Yes	Inspiratory	Moderate	Bilateral Vocal fold immobility or Glottic Stenosis					Bilateral Vocal Fold Paralysis	77.0		Severe	Idiopathic		Yes	Yes	1.0	1.0			1.0									1.0	
+909514				Subglottic Stenosis						50.0	Grade II	Moderate	Auto-immune or granulomatous disease	Granulomatosis with polyangiitis (GPA) (Formerly known as Wegner's disease)	Yes	No	1.0	1.0		1.0											
+875345	No			Subglottic Stenosis						30.0	Grade I	Mild	Idiopathic		Yes	Yes	1.0				1.0						1.0				
+833378	No			Subglottic Stenosis						40.0	Grade I	Mild	Idiopathic		Yes	No	1.0				1.0						1.0				
+792957	No			Subglottic Stenosis							Grade I	Mild	Idiopathic		Yes	Yes	1.0	1.0	1.0		1.0				1.0	1.0	1.0				
+161650	No			Subglottic Stenosis						30.0	Grade I	Mild	Idiopathic		Yes	No	1.0				1.0						1.0	1.0			
+981647	No			Subglottic Stenosis							Grade I	Mild	Idiopathic		Yes	No	1.0				1.0						1.0				
+588955	No			Subglottic Stenosis						60.0	Grade II	Moderate	Iatrogenic (surgery or intubation)		Yes	Yes	1.0				1.0					1.0					1.0
+338167				Bilateral Vocal fold immobility or Glottic Stenosis					Not certain or TBD	86.0		Severe	Iatrogenic (surgery or intubation)		Yes	Yes	1.0			1.0											
+865704	Yes	Inspiratory	Mild	Bilateral Vocal fold immobility or Glottic Stenosis					Bilateral Vocal Fold Paralysis	50.0		Moderate	Iatrogenic (surgery or intubation)		Yes	No	1.0			1.0											
+048917	No			Subglottic Stenosis						25.0	Grade I	Mild	Idiopathic		Yes	No	1.0	1.0			1.0						1.0				
+119821				Multi-Level Upper Airway Stenosis						40.0		Mild	GERD		Yes	No	1.0				1.0					1.0					
+309179	No			Subglottic Stenosis						10.0	Grade I	Mild	Idiopathic		Yes	No	1.0				1.0						1.0				
+439823	Yes	Inspiratory	Moderate	Bilateral Vocal fold immobility or Glottic Stenosis				(d) Class 4	Posterior Glottic Stenosis	61.0		Moderate	Iatrogenic (surgery or intubation)		Yes	Not certain	1.0				1.0					1.0					
+342603				Bilateral Vocal fold immobility or Glottic Stenosis					Bilateral Vocal Fold Paralysis	70.0		Moderate	Idiopathic		Yes	No	1.0	1.0		1.0											
+790561	No			Subglottic Stenosis							Grade I	Mild	Idiopathic		Yes	Yes	1.0	1.0			1.0						1.0				
+587247	No			Subglottic Stenosis						10.0	Grade I	Mild	Idiopathic		Yes	Not certain	1.0				1.0					1.0	1.0				
+940491	No			Tracheal Stenosis						0.0	Grade I	Mild	Iatrogenic (surgery or intubation)		Yes	No	1.0	1.0			1.0							1.0		1.0	1.0
+628119	No			Subglottic Stenosis						5.0	Grade I	Mild	Idiopathic		Yes	Yes	1.0		1.0						1.0						
+496203	Yes	Biphasic	Mild	Subglottic Stenosis						55.0	Grade III	Moderate	Idiopathic		Yes	No	1.0		1.0		1.0			1.0			1.0				
+557634	No			Subglottic Stenosis						50.0	Grade I	Mild	Auto-immune or granulomatous disease	Granulomatosis with polyangiitis (GPA) (Formerly known as Wegner's disease)	Yes	No	1.0	1.0	1.0		1.0				1.0	1.0	1.0				
+243338	No			Bilateral Vocal fold immobility or Glottic Stenosis					Bilateral Vocal Fold Paralysis			Moderate	Iatrogenic (surgery or intubation)		Yes	Yes	1.0				1.0									1.0	
+585131				Subglottic Stenosis						81.0	Grade III	Severe	Idiopathic		Yes	Not certain	1.0			1.0											
+648889	Yes	Inspiratory	Mild	Tracheal Stenosis						83.0	Grade III	Severe	Iatrogenic (surgery or intubation)		Yes	Yes	1.0				1.0						1.0		1.0		
+595418	No			Bilateral Vocal fold immobility or Glottic Stenosis				(c) Class 3	Posterior Glottic Stenosis	70.0		Severe	Iatrogenic (surgery or intubation)		Yes	No	1.0				1.0						1.0				1.0
+692893	No			Subglottic Stenosis						50.0	Grade I	Mild	Auto-immune or granulomatous disease	Other	Yes	No	1.0	1.0			1.0									1.0	
+005536	No			Tracheal Stenosis						60.0	Grade II	Moderate	Iatrogenic (surgery or intubation)		Yes	Yes	1.0	1.0			1.0										1.0
+940505	No			Subglottic Stenosis						20.0	Grade I	Mild	Idiopathic		Yes	Yes	1.0	1.0			1.0					1.0	1.0				
+940603				Subglottic Stenosis						68.0	Grade II	Moderate	Auto-immune or granulomatous disease	Other	Yes	No	1.0	1.0			1.0						1.0				
+115758	No			Subglottic Stenosis						40.0	Grade I	Moderate	Idiopathic		Yes	No	1.0		1.0		1.0			1.0			1.0				
+316146	No			Subglottic Stenosis						75.0	Grade III	Severe	Idiopathic		Yes	No	1.0			1.0											
+231319	Yes	Inspiratory	Moderate	Subglottic Stenosis						85.0	Grade III	Severe	Not certain or TBD		Yes	No	1.0			1.0											
+204975	Yes	Inspiratory	Mild	Subglottic Stenosis						75.0	Grade III	Severe	Iatrogenic (surgery or intubation)		Yes	No	1.0	1.0	1.0		1.0			1.0			1.0	1.0			1.0
+948920	No			Subglottic Stenosis						10.0	Grade I	Mild	Infectious (Diphtheria, TB, Bacterial Tracheitis, other)		Yes	No	1.0	1.0	1.0		1.0				1.0	1.0					
+050721	No			Subglottic Stenosis						60.0	Grade II	Moderate	Idiopathic		Yes	No	1.0				1.0						1.0				
+929715				Supraglottic Stenosis	Grade 1					40.0		Mild	Iatrogenic (surgery or intubation)		Yes	No	1.0		1.0		1.0			1.0			1.0				
+494476				Multi-Level Upper Airway Stenosis						75.0		Severe	Iatrogenic (surgery or intubation)		Yes	Not certain	1.0	1.0			1.0									1.0	1.0
+364676	No			Subglottic Stenosis						35.0	Grade I	Mild	Idiopathic		Yes	No	1.0	1.0	1.0		1.0			1.0			1.0				
+051356				Subglottic Stenosis						20.0	Grade I	Mild	Idiopathic		Yes	Yes	1.0				1.0					1.0					
+549858				Bilateral Vocal fold immobility or Glottic Stenosis					Posterior Glottic Stenosis	10.0		Mild	Iatrogenic (surgery or intubation)		Yes	Yes	1.0				1.0					1.0					
+459048				Subglottic Stenosis						10.0	Grade I	Mild	Auto-immune or granulomatous disease	Granulomatosis with polyangiitis (GPA) (Formerly known as Wegner's disease)	Yes	No	1.0		1.0		1.0			1.0			1.0				
+914347				Subglottic Stenosis						25.0	Grade I	Mild	Auto-immune or granulomatous disease	Granulomatosis with polyangiitis (GPA) (Formerly known as Wegner's disease)	Yes	Yes	1.0				1.0						1.0			1.0	
+438007				Subglottic Stenosis						50.0	Grade I	Moderate	Idiopathic		Yes	Yes	1.0				1.0					1.0				1.0	1.0
+282622				Tracheal Stenosis						70.0	Grade II	Moderate	Iatrogenic (surgery or intubation)		Yes	Yes	1.0				1.0					1.0				1.0	1.0
+307462				Subglottic Stenosis						20.0	Grade I	Mild	Idiopathic		Yes	Yes	1.0				1.0					1.0					
+985726				Subglottic Stenosis						60.0	Grade II	Moderate	Idiopathic		Yes	Yes	1.0	1.0			1.0					1.0					
+127705				Multi-Level Upper Airway Stenosis								Severe	Iatrogenic (surgery or intubation)		Yes	Yes	1.0				1.0					1.0			1.0	1.0	1.0
+925715				Subglottic Stenosis						50.0	Grade I	Moderate	Idiopathic		Yes	Yes	1.0	1.0			1.0					1.0					
+355426				Subglottic Stenosis						10.0	Grade I	Mild	Idiopathic		Yes	Yes	1.0				1.0					1.0					
+935062				Bilateral Vocal fold immobility or Glottic Stenosis					Bilateral Vocal Fold Paralysis			Moderate	Iatrogenic (surgery or intubation)		Yes	Yes	1.0				1.0									1.0	1.0
+140665				Subglottic Stenosis							Grade I	Mild	Idiopathic		Yes	Yes	1.0	1.0	1.0		1.0		1.0			1.0	1.0				
+093915				Subglottic Stenosis							Grade I	Mild	Idiopathic		Yes	Yes	1.0		1.0		1.0	1.0				1.0				1.0	
+280706	Yes	Inspiratory	Moderate	Bilateral Vocal fold immobility or Glottic Stenosis				(d) Class 4	Posterior Glottic Stenosis			Severe	Iatrogenic (surgery or intubation)		Yes	Yes	1.0				1.0									1.0	1.0
+438742				Subglottic Stenosis							Grade I	Mild	Idiopathic		Yes	Yes	1.0	1.0			1.0					1.0					
+698926				Tracheal Stenosis						10.0	Grade I	Mild	Other		Yes	Yes	1.0	1.0			1.0					1.0	1.0				
+438080				Subglottic Stenosis						30.0	Grade I	Mild	Idiopathic		Yes	Yes	1.0				1.0					1.0					
+873339				Tracheal Stenosis							Grade III	Severe	Iatrogenic (surgery or intubation)		Yes	Yes	1.0				1.0					1.0					1.0
+091666				Bilateral Vocal fold immobility or Glottic Stenosis				(a) Class 1	Posterior Glottic Stenosis			Mild	Iatrogenic (surgery or intubation)		Yes	Yes	1.0				1.0									1.0	
+352976				Tracheal Stenosis									Iatrogenic (surgery or intubation)		Yes	Yes	1.0				1.0					1.0				1.0	1.0
+484331				Subglottic Stenosis							Grade I	Mild	Idiopathic		Yes	Yes	1.0				1.0					1.0	1.0		1.0	1.0	1.0
+743387				Subglottic Stenosis						10.0	Grade I	Mild	Idiopathic		Yes	Yes	1.0		1.0		1.0				1.0	1.0	1.0				
+176640				Subglottic Stenosis							Grade I	Mild	Idiopathic		Yes	Yes	1.0				1.0					1.0		1.0			
+364177				Bilateral Vocal fold immobility or Glottic Stenosis					Bilateral Vocal Fold Paralysis			Moderate	Iatrogenic (surgery or intubation)		Yes	No	1.0				1.0					1.0				1.0	1.0
+411594				Subglottic Stenosis						47.0	Grade II	Moderate	Iatrogenic (surgery or intubation)		Yes	No	1.0		1.0		1.0			1.0		1.0					
+893431				Multi-Level Upper Airway Stenosis								Mild	Iatrogenic (surgery or intubation)		Yes	Yes	1.0				1.0					1.0	1.0	1.0	1.0	1.0	1.0
+784372				Bilateral Vocal fold immobility or Glottic Stenosis				(b) Class 2	Posterior Glottic Stenosis			Mild	Iatrogenic (surgery or intubation)		Yes	Yes	1.0				1.0					1.0		1.0		1.0	1.0
+703648				Subglottic Stenosis						30.0	Grade I	Mild	Idiopathic		Yes	Yes	1.0				1.0					1.0					
+621157				Subglottic Stenosis							Grade I	Mild	Idiopathic		Yes	Yes	1.0				1.0					1.0					
+744921				Subglottic Stenosis							Grade II	Moderate	Idiopathic		Yes	Yes	1.0				1.0					1.0		1.0		1.0	
+267322				Bilateral Vocal fold immobility or Glottic Stenosis				(b) Class 2	Posterior Glottic Stenosis			Severe	Iatrogenic (surgery or intubation)		Yes	Yes	1.0				1.0					1.0					1.0
+597358				Subglottic Stenosis						15.0	Grade I	Mild	Idiopathic		Yes	Yes	1.0		1.0		1.0		1.0			1.0					
+001573				Subglottic Stenosis						40.0	Grade I	Mild	Idiopathic		Yes	Yes	1.0	1.0			1.0					1.0	1.0				
+917881				Subglottic Stenosis							Grade I	Mild	Idiopathic		Yes	Yes	1.0				1.0					1.0					
+720935				Subglottic Stenosis							Grade I	Moderate	Idiopathic		Yes	Yes	1.0		1.0		1.0			1.0		1.0					
+962903				Subglottic Stenosis							Grade I	Mild	Idiopathic		Yes	Yes	1.0				1.0					1.0	1.0				
+163053				Bilateral Vocal fold immobility or Glottic Stenosis					Bilateral Vocal Fold Paralysis			Moderate	Iatrogenic (surgery or intubation)		Yes	Yes	1.0			1.0											
+952318				Subglottic Stenosis							Grade I	Moderate	Idiopathic		Yes	Yes	1.0		1.0		1.0				1.0	1.0	1.0				
+112257				Subglottic Stenosis							Grade I	Mild	Idiopathic		Yes	Yes	1.0	1.0	1.0		1.0			1.0		1.0					
+089022				Subglottic Stenosis							Grade I	Mild	Idiopathic		Yes	Yes	1.0				1.0					1.0					
+221317				Subglottic Stenosis						31.0	Grade II	Mild	Iatrogenic (surgery or intubation)		Yes	Yes	1.0				1.0					1.0	1.0			1.0	
+274403				Tracheal Stenosis							Grade I	Mild	Iatrogenic (surgery or intubation)		Yes	Yes	1.0	1.0			1.0					1.0					1.0
